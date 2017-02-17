@@ -1,0 +1,33 @@
+{
+  "name": "get-text-from-camel-case",
+  "version": "1.0.0",
+  "description": "A Function which takes a camelCase text and the required output case as arguments and returns the text in the desired case.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximus136/getTextFromCamelCase.git"
+  },
+  "keywords": [
+    "convert",
+    "camelcase",
+    "text",
+    "camelcase",
+    "case",
+    "conversion",
+    "camelcase",
+    "to",
+    "lowercase",
+    "camelcase",
+    "to",
+    "uppercase"
+  ],
+  "author": "Jithin Nair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximus136/getTextFromCamelCase/issues"
+  },
+  "homepage": "https://github.com/maximus136/getTextFromCamelCase#readme"
+}
